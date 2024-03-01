@@ -1,0 +1,7 @@
+kabi 80
+rice 200
+ice_cream 250
+chips 300
+fish 50
+klor 100
+water 400

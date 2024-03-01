@@ -1,0 +1,2 @@
+5,30,7,70,100,20,20,40,10.
+num_teams,num_emp,num_p,thrOfprod,nes_amount,num_cus,arri,time,CartQun.
